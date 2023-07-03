@@ -1,0 +1,85 @@
+{
+    "controlador.ed.lista.ListaEnlazada": {
+        "cabecera": {
+            "informacion": {
+                "@class": "modelo.Equipo",
+                "id": 1,
+                "nombre": "Arsenal",
+                "estado": true
+            },
+            "siguiente": {
+                "informacion": {
+                    "@class": "modelo.Equipo",
+                    "id": 2,
+                    "nombre": "Chelsea",
+                    "estado": true
+                },
+                "siguiente": {
+                    "informacion": {
+                        "@class": "modelo.Equipo",
+                        "id": 3,
+                        "nombre": "Manchester United",
+                        "estado": true
+                    },
+                    "siguiente": {
+                        "informacion": {
+                            "@class": "modelo.Equipo",
+                            "id": 4,
+                            "nombre": "Liverpool",
+                            "estado": true
+                        },
+                        "siguiente": {
+                            "informacion": {
+                                "@class": "modelo.Equipo",
+                                "id": 5,
+                                "nombre": "Manchester City",
+                                "estado": true
+                            },
+                            "siguiente": {
+                                "informacion": {
+                                    "@class": "modelo.Equipo",
+                                    "id": 6,
+                                    "nombre": "Tottenham Hotspur",
+                                    "estado": true
+                                },
+                                "siguiente": {
+                                    "informacion": {
+                                        "@class": "modelo.Equipo",
+                                        "id": 7,
+                                        "nombre": "Leicester City",
+                                        "estado": true
+                                    },
+                                    "siguiente": {
+                                        "informacion": {
+                                            "@class": "modelo.Equipo",
+                                            "id": 8,
+                                            "nombre": "Brighton",
+                                            "estado": true
+                                        },
+                                        "siguiente": {
+                                            "informacion": {
+                                                "@class": "modelo.Equipo",
+                                                "id": 9,
+                                                "nombre": "Newcastle",
+                                                "estado": true
+                                            },
+                                            "siguiente": {
+                                                "informacion": {
+                                                    "@class": "modelo.Equipo",
+                                                    "id": 10,
+                                                    "nombre": "Aston Villa",
+                                                    "estado": true
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "size": 10
+    }
+}

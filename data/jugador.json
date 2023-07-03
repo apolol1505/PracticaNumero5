@@ -1,0 +1,225 @@
+{
+    "controlador.ed.lista.ListaEnlazada": {
+        "cabecera": {
+            "informacion": {
+                "@class": "modelo.Jugador",
+                "id": 1,
+                "nombre": "Haaland",
+                "precio": 180,
+                "alias": "Androide",
+                "dorsal": 9,
+                "id_jugador": 5
+            },
+            "siguiente": {
+                "informacion": {
+                    "@class": "modelo.Jugador",
+                    "id": 2,
+                    "nombre": "Harry Kane",
+                    "precio": 115,
+                    "alias": "Sin copas",
+                    "dorsal": 9,
+                    "id_jugador": 6
+                },
+                "siguiente": {
+                    "informacion": {
+                        "@class": "modelo.Jugador",
+                        "id": 3,
+                        "nombre": "Kevin De Bruyne",
+                        "precio": 88,
+                        "alias": "Colorado",
+                        "dorsal": 17,
+                        "id_jugador": 5
+                    },
+                    "siguiente": {
+                        "informacion": {
+                            "@class": "modelo.Jugador",
+                            "id": 4,
+                            "nombre": "Bruno Fernandes",
+                            "precio": 75,
+                            "alias": "Principe",
+                            "dorsal": 8,
+                            "id_jugador": 3
+                        },
+                        "siguiente": {
+                            "informacion": {
+                                "@class": "modelo.Jugador",
+                                "id": 5,
+                                "nombre": "Bukayo Saka",
+                                "precio": 96,
+                                "alias": "Little Chili",
+                                "dorsal": 17,
+                                "id_jugador": 1
+                            },
+                            "siguiente": {
+                                "informacion": {
+                                    "@class": "modelo.Jugador",
+                                    "id": 6,
+                                    "nombre": "Moises Caicedo",
+                                    "precio": 100,
+                                    "alias": "El Moi",
+                                    "dorsal": 25,
+                                    "id_jugador": 8
+                                },
+                                "siguiente": {
+                                    "informacion": {
+                                        "@class": "modelo.Jugador",
+                                        "id": 7,
+                                        "nombre": "Harry Maguire",
+                                        "precio": 87,
+                                        "alias": "Maguaia",
+                                        "dorsal": 5,
+                                        "id_jugador": 3
+                                    },
+                                    "siguiente": {
+                                        "informacion": {
+                                            "@class": "modelo.Jugador",
+                                            "id": 8,
+                                            "nombre": "Luis Diaz",
+                                            "precio": 75,
+                                            "alias": "Lucho",
+                                            "dorsal": 23,
+                                            "id_jugador": 4
+                                        },
+                                        "siguiente": {
+                                            "informacion": {
+                                                "@class": "modelo.Jugador",
+                                                "id": 9,
+                                                "nombre": "Enzo Fernandez",
+                                                "precio": 120,
+                                                "alias": "Sobrevalorado",
+                                                "dorsal": 24,
+                                                "id_jugador": 2
+                                            },
+                                            "siguiente": {
+                                                "informacion": {
+                                                    "@class": "modelo.Jugador",
+                                                    "id": 10,
+                                                    "nombre": "Thiago Silva",
+                                                    "precio": 18,
+                                                    "alias": "Gladiador Inca",
+                                                    "dorsal": 6,
+                                                    "id_jugador": 2
+                                                },
+                                                "siguiente": {
+                                                    "informacion": {
+                                                        "@class": "modelo.Jugador",
+                                                        "id": 11,
+                                                        "nombre": "Giovani Lo Celso",
+                                                        "precio": 20,
+                                                        "alias": "Gio",
+                                                        "dorsal": 18,
+                                                        "id_jugador": 6
+                                                    },
+                                                    "siguiente": {
+                                                        "informacion": {
+                                                            "@class": "modelo.Jugador",
+                                                            "id": 12,
+                                                            "nombre": "Ivan Perisic",
+                                                            "precio": 5,
+                                                            "alias": "Osito",
+                                                            "dorsal": 14,
+                                                            "id_jugador": 6
+                                                        },
+                                                        "siguiente": {
+                                                            "informacion": {
+                                                                "@class": "modelo.Jugador",
+                                                                "id": 13,
+                                                                "nombre": "Emiliano Martinez",
+                                                                "precio": 28,
+                                                                "alias": "Dibu",
+                                                                "dorsal": 1,
+                                                                "id_jugador": 10
+                                                            },
+                                                            "siguiente": {
+                                                                "informacion": {
+                                                                    "@class": "modelo.Jugador",
+                                                                    "id": 14,
+                                                                    "nombre": "Jamie Vardy",
+                                                                    "precio": 3,
+                                                                    "alias": "Bromista",
+                                                                    "dorsal": 9,
+                                                                    "id_jugador": 7
+                                                                },
+                                                                "siguiente": {
+                                                                    "informacion": {
+                                                                        "@class": "modelo.Jugador",
+                                                                        "id": 15,
+                                                                        "nombre": "Mohamed Salah",
+                                                                        "precio": 42,
+                                                                        "alias": "Faraon",
+                                                                        "dorsal": 11,
+                                                                        "id_jugador": 4
+                                                                    },
+                                                                    "siguiente": {
+                                                                        "informacion": {
+                                                                            "@class": "modelo.Jugador",
+                                                                            "id": 16,
+                                                                            "nombre": "Gabriel Martinelli",
+                                                                            "precio": 67,
+                                                                            "alias": "Teo",
+                                                                            "dorsal": 11,
+                                                                            "id_jugador": 1
+                                                                        },
+                                                                        "siguiente": {
+                                                                            "informacion": {
+                                                                                "@class": "modelo.Jugador",
+                                                                                "id": 17,
+                                                                                "nombre": "Virgil van Dijk ",
+                                                                                "precio": 50,
+                                                                                "alias": "Vig",
+                                                                                "dorsal": 4,
+                                                                                "id_jugador": 4
+                                                                            },
+                                                                            "siguiente": {
+                                                                                "informacion": {
+                                                                                    "@class": "modelo.Jugador",
+                                                                                    "id": 18,
+                                                                                    "nombre": "Aaron Ramsdale",
+                                                                                    "precio": 60,
+                                                                                    "alias": "Chris",
+                                                                                    "dorsal": 1,
+                                                                                    "id_jugador": 1
+                                                                                },
+                                                                                "siguiente": {
+                                                                                    "informacion": {
+                                                                                        "@class": "modelo.Jugador",
+                                                                                        "id": 19,
+                                                                                        "nombre": "Gabriel Jesus",
+                                                                                        "precio": 54,
+                                                                                        "alias": "El nuevo ney",
+                                                                                        "dorsal": 9,
+                                                                                        "id_jugador": 1
+                                                                                    },
+                                                                                    "siguiente": {
+                                                                                        "informacion": {
+                                                                                            "@class": "modelo.Jugador",
+                                                                                            "id": 20,
+                                                                                            "nombre": "Heung Min Son",
+                                                                                            "precio": 90,
+                                                                                            "alias": "Sony",
+                                                                                            "dorsal": 7,
+                                                                                            "id_jugador": 1
+                                                                                        }
+                                                                                    }
+                                                                                }
+                                                                            }
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "size": 20
+    }
+}
